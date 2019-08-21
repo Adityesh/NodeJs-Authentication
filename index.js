@@ -8,7 +8,7 @@ const authRoute = require('./routes/auth')
 dotenv.config();
 
 //COnnect to database
-mongoose.connect(process.env.DB_CONNECT,{ useNewUrlParser: true },()=> console.log("COnencted"))
+mongoose.connect(process.env.DB_CONNECT,{ useNewUrlParser: true },()=> console.log("Connected"))
 
 //Middleware
 app.use(express.json());
