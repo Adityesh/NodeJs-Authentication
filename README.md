@@ -9,6 +9,7 @@ Dependencies used:
 3. Bcrpyt (Password hashing) 
 4. Mongoose (Cloud mongoDB atlas database)
 5. dotenv (set up Environment Variables)
+6. jsonwebtokens (Create private routes)
 
 Postman for Api development environment and Http methods testing.
 
