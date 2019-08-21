@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Adityesh/NodeJs-Authentication/issues"
   },
-  "homepage": "https://github.com/Adityesh/NodeJs-Authentication#readme"
+  "homepage": "https://github.com/Adityesh/NodeJs-Authentication#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
 }
